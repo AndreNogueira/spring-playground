@@ -1,2 +1,3 @@
 # spring-playground
-Spring Module Playground 
+
+Spring Module Playground
